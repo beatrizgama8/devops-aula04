@@ -1,3 +1,2 @@
 # devops-aula04
-
-ramo conflito
+ramo master
